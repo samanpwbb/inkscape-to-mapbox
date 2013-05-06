@@ -1,4 +1,5 @@
 #!/bin/bash
+# Originally written by Young Hahn / https://github.com/yhahn
 # Expects a batch export from Inkscape of tiles in the current directory.
 
 echo "
